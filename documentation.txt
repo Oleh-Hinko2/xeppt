@@ -1,0 +1,12 @@
+Structure: Modules
+Module - one part or page of application logic.
+
+Module
+  -- components
+    -- ...
+    -- index.ts
+  -- routes
+    ...
+    -- index.ts
+  routing.ts
+  index.ts 
